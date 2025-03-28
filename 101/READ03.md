@@ -1,11 +1,17 @@
 
-##03
+## READ03
 
-1.El propósito de CSS son varias cosas, como el diseño y el diseño, el estilo y el diseño receptivo.
+**A1**
 
-2.HTML proporciona el marco (contenido y estructura), mientras que CSS agrega el estilo, el diseño y el estilo para que sea visualmente atractivo y funcional.
+El propósito de CSS son varias cosas, como el diseño y el diseño, el estilo y el diseño receptivo.
 
-3.INLINE CSS :
+**A2**
+
+HTML proporciona el marco (contenido y estructura), mientras que CSS agrega el estilo, el diseño y el estilo para que sea visualmente atractivo y funcional.
+
+**A3**
+
+INLINE CSS :
 
 <h1 style="color: blue; text-align: center;">Hello, World!</h1>
 
@@ -33,6 +39,8 @@ EXTERNAL CSS:
   <link rel="stylesheet" href="styles.css">
 </head>
 
-4.   p {
+**A4**
+
+p {
       color: red;
        }
