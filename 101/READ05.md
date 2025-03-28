@@ -19,8 +19,6 @@ La mejor práctica al poner el texto en negrita o cursiva en Markdown es utiliza
 
 **A4**
 
-Asterisk (*)
-
-Plus (+)
-
-Hyphen (-)
+> - Asterisk (*)
+> - Plus (+)
+> - Hyphen (-)
