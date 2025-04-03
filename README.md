@@ -1,4 +1,10 @@
-# NOTAS DE LECTURA - CODE 101
+# NOTAS DE LECTURA - CODE 101 
 
-## LECTURAS ENTERTECHSCHOOL 1- 10
+# GABRIEL ALIAGA
+
+## Introduction 
+
+Mi nombre es gabriel tengo interes en  codigo especialmente en ciberseguridad. tengo 22 y vivo en Peru, Lima.
+en el file llamado 
+
 
